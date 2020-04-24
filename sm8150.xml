@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- KERNEL -->
+  <project name="FlokoROM-OnePlus/android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="Floko3.0"/>
+
+  <!-- DEVICE -->
+  <project name="FlokoROM-OnePlus/android_device_oneplus_guacamoleb" path="device/oneplus/guacamoleb" remote="github" revision="Floko3.0"/>
+  
+  <!-- VENDER -->
+  <project name="FlokoROM-OnePlus/android_vendor_oneplus_guacamoleb" path="vendor/oneplus/guacamoleb" remote="github" revision="Floko3.0"/>
+</manifest>
