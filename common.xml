@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="LineageOS/android_device_oneplus_common" path="device/oneplus/common" remote="github" revision="lineage-17.1"/>
+
+  <!-- VENDER -->
+  <project name="FlokoROM-OnePlus/android_vendor_oneplus" path="vendor/oneplus" remote="github" revision="Floko3.0" />
 </manifest>
